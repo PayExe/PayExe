@@ -15,11 +15,12 @@
 
 ## 🛠️ My Toolbox
 
+## 🛠️ My Toolbox
 ```javascript
 const paolo = {
-    languages: ["JS", "HTML CSS", "C", "C++, "Python"],
-    tools: ["Git", "VS Code", "Notion", "Electron"],
-    learning: ["GodotScript", "C#"],
+  languages: ["JS", "HTML CSS", "C", "C++", "Python", "Go"],
+  tools: ["Git", "VS Code", "Notion", "Electron"],
+  learning: ["GodotScript", "C#"],
 };
 ```
 
@@ -27,9 +28,9 @@ const paolo = {
 
 <div align="center">
   
-  ![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayExe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayExe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayExe&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayExe&layout=compact&theme=tokyonight)
   
 </div>
 
