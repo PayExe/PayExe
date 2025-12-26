@@ -14,8 +14,6 @@
 </div>
 
 ## 🛠️ My Toolbox
-
-## 🛠️ My Toolbox
 ```javascript
 const paolo = {
   languages: ["JS", "HTML CSS", "C", "C++", "Python", "Go"],
@@ -28,9 +26,9 @@ const paolo = {
 
 <div align="center">
   
-![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayExe&show_icons=true&theme=tokyonight)
+  ![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayExe&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayExe&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayExe&layout=compact&theme=tokyonight)
   
 </div>
 
