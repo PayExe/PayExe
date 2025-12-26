@@ -37,5 +37,5 @@ const paolo = {
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/search/kojima-gifs" width="300">
+  <img src="https://tenor.com/search/kojima-gif">
 </div>
