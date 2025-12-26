@@ -13,21 +13,13 @@
   
 </div>
 
-## 🚀 About Me
-
-I'm a **beginner developer** passionate about crafting things for the web. Currently exploring the vast world of programming !
-
-- 💙 **Love:** Web Development
-- 🌱 **Currently Learning:** Everything about web dev
-- 💬 **Ask me about:** Anything! I'm always happy to chat 
-
 ## 🛠️ My Toolbox
 
 ```javascript
 const paolo = {
-    code: ["JavaScript", "HTML", "CSS", "Python"],
-    tools: ["Git", "VS Code", "Notion"],
-    learning: ["Go", "C"],
+    languages: ["JS", "HTML CSS", "C", "C++, "Python"],
+    tools: ["Git", "VS Code", "Notion", "Electron"],
+    learning: ["GodotScript", "C#"],
 };
 ```
 
@@ -46,5 +38,5 @@ const paolo = {
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/f0/db/5e/f0db5e4dd2bcca810944af3fd288c7ed.jpg" width="300">
+  <img src="https://tenor.com/search/kojima-gifs" width="300">
 </div>
